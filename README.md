@@ -1,4 +1,7 @@
-### Hi there 👋
+Hi there! I'm Matteo Cicerani.
+I'm a computer science student at Sapienza, i will publish my university exercise and some other things.
+Here to learn more about web developing and coding.
+See ya!
 
 <!--
 **mcicerani/mcicerani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
